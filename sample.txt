@@ -1,0 +1,4 @@
+
+This is confidential information.
+My Applied Cryptography Coding Challenge.
+Only authorized users should read this file.
